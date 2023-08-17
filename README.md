@@ -16,4 +16,8 @@
 - Corsair K55 RGB Keyboard
 - Glorious Model O
 
+## TO-DO List
+- Update personal website with Setup info
+- Make profile prettier
+
   
