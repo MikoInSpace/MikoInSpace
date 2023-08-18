@@ -4,7 +4,7 @@
 
 # About Me
 - I'm a **13** Year old __Female__ developer from __Germany__
-- I'm currently learning about the __Flipper Zero__ and am trying to get a __Pwnagotchi__
+- I'm currently learning more about the __Flipper Zero__ and am trying to get a __Pwnagotchi__
 
 # My Setup
 ## PC
