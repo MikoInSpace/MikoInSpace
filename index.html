@@ -13,15 +13,15 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #262626;
-            color: #ffffff;
+            background-color: #b2a4ff; /* Background color */
+            color: #9376e0; /* Text color */
             margin: 0;
             padding: 0;
         }
 
         header {
             position: relative;
-            background-color: #663399;
+            background-color: #9376e0; /* Primary color */
             color: #fff;
             text-align: center;
             padding: 2em 0;
@@ -49,16 +49,34 @@
             margin-top: 1rem;
         }
 
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #9376e0; /* Primary color */
+            border-bottom: 1px solid #9376e0; /* Primary color */
+        }
+
+        nav a {
+            padding: 10px 20px;
+            text-decoration: none;
+            color: #fff; /* Text color */
+            opacity: 1; /* Opacity set to 100% */
+        }
+
+        nav a:hover {
+            background-color: #663399;
+        }
+
         section {
             padding: 40px;
-            background-color: #663399; /* Purple color */
+            background-color: rgba(147, 118, 224, 0.5);
             border-radius: 20px;
             margin: 20px 0;
-            color: #e0e0e0;
+            color: #ffffff; /* Text color */
         }
 
         h2 {
-            color: #bb86fc;
+            color: #ffffff;
             font-size: 1.8rem;
             margin-bottom: 0.5rem;
         }
@@ -90,24 +108,16 @@
         </h1>
         <p>Welcome to my whimsical corner of the web!</p>
     </header>
+
+    <nav>
+        <a href="about.html">About Me</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+    </nav>
     
-    <section id="about">
-        <h2>About Me</h2>
-        <p>👋 Hey there! I'm Miko, a 13-year-old female developer from Germany.</p>
-        <p>🌟 I'm currently on an exciting journey of exploring the Flipper Zero and chasing after a Pwnagotchi!</p>
-    </section>
-    
-    <section id="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="https://github.com/MikoInSpace/Task-Organizer">Task Organizer in Python</a></li>
-            <li><a href="">This Website</a></li>
-        </ul>
-    </section>
-    
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>You can find me on Discord as <a href="https://discord.com/">mikoinspace</a>.</p>
+    <section>
+        <h2>Welcome to My Website!</h2>
+        <p>This is my personal website where you can learn more about me and my projects.</p>
     </section>
 </body>
 </html>
