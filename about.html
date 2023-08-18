@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+                /* Add animation keyframes for fade-in */
+                @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Apply fade-in animation to header, section, and nav elements */
+        header, section, nav {
+            animation: fadeIn 1s ease-out;
+        }
+
+        
         /* Reset some default browser styles */
         body, h1, h2, p {
             margin: 0;
