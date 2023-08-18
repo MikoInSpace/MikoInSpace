@@ -10,7 +10,7 @@
 ## PC
 - CPU: Intel __I5-10400F__
 - GPU: GigaByte NVIDIA GeForce __RTX 3060__ Gaming OC
-- RAM: __32GB__ 3200MhZ
+- RAM: __32GB__ 3200MHz
 
 ## Peripherals
 - Corsair K55 RGB Keyboard
