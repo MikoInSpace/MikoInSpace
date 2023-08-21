@@ -23,7 +23,7 @@
 ### Coding Software
 - Visual Studio Code
 
-## PC
+## Laptop
 - CPU: AMD Ryzen 5 2500U
 - GPU: AMD Radeon __Vega 8__
 - RAM: __12GB__
