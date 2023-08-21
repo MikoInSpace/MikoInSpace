@@ -18,13 +18,22 @@
 - Glorious Model O
 
 ## System
-### Main OS
+### OS
 - Windows 10
-### Laptop OS
-- Fedora
 ### Coding Software
 - Visual Studio Code
 
+## PC
+- CPU: AMD Ryzen 5 2500U
+- GPU: AMD Radeon __Vega 8__
+- RAM: __12GB__
+
+## System
+### OS
+- Fedora
+### Coding Software
+- Visual Studio Code
+  
 ## TO-DO List
 - Make the desktop notifications in task organizer actually work.
 
