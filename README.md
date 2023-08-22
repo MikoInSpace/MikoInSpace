@@ -24,7 +24,7 @@
 - Visual Studio Code
 
 ## Laptop
-- CPU: AMD Ryzen 5 2500U
+- CPU: AMD __Ryzen 5__ 2500U
 - GPU: AMD Radeon __Vega 8__
 - RAM: __12GB__
 
