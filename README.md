@@ -7,6 +7,10 @@
 - I'm an autistic **13** Year old __Female__ developer from __Germany__.
 - I'm currently learning more about the __Flipper Zero__ and am trying to get my hands on a __Pwnagotchi__.
 
+# Repositories
+
+I'm currently working on task organizer and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
+
 # My Setup
 ## PC
 - CPU: Intel __I5-10400F__
