@@ -1,11 +1,11 @@
 # 👋 Hi, I’m MikoInSpace!
-- 🌱 I’m currently learning __Python and HTML__.
+- 🌱 I’m currently learning __Python and HTML__!
 - 📫 Reach me by messaging me on Discord, My username on there is '**mikoinspace**'.
 
 # About Me
 ![alt text](https://github.com/MikoInSpace/MikoInSpace/blob/main/stupid.png?raw=true)
 - I'm an autistic **13** Year old __Female__ developer from __Germany__.
-- I'm currently learning more about the __Flipper Zero__ and am trying to get my hands on a __Pwnagotchi__.
+- I'm currently learning more about the __Flipper Zero__ and am trying to get my hands on a __Pwnagotchi__!
 
 # Repositories
 
@@ -25,7 +25,7 @@ I'm currently working on task organizer and making a few one time things to lear
 ### OS
 - Windows 10
 ### Coding Software
-- Visual Studio Code
+- Visual Studio Code with AI Autocompletion
 
 ## Laptop
 - CPU: AMD __Ryzen 5__ 2500U
