@@ -10,6 +10,8 @@
 
 I'm currently working on task __organizer__ and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
 
+I try to do atleast one project per day.
+
 # My Setup
 ## PC
 - CPU: Intel __I5-10400F__
