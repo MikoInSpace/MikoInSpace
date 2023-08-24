@@ -10,7 +10,7 @@
 
 I'm currently working on task __organizer__ and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
 
-I try to do atleast one project per day.
+I try to do atleast __one project per day__.
 
 # My Setup
 ## PC
