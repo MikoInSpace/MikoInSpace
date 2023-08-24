@@ -3,7 +3,6 @@
 - 📫 Reach me by messaging me on Discord, My username on there is '**mikoinspace**'.
 
 # About Me
-![alt text](https://github.com/MikoInSpace/MikoInSpace/blob/main/stupid.png?raw=true)
 - I'm an autistic **13** Year old __Female__ developer from __Germany__.
 - I'm currently learning more about the __Flipper Zero__ and am trying to get my hands on a __Pwnagotchi__!
 
@@ -38,7 +37,7 @@ I'm currently working on task organizer and making a few one time things to lear
 ### Coding Software
 - Visual Studio Code
   
-## TO-DO List
+# TO-DO List
 - Make the desktop notifications in task organizer actually work.
 
   
