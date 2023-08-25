@@ -39,7 +39,3 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 ### Coding Software
 - Visual Studio Code
   
-# TO-DO List
-- Make the desktop notifications in task organizer actually work.
-
-  
