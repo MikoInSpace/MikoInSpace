@@ -35,7 +35,7 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 
 ## System
 ### OS
-- Fedora Linux
+- Ubuntu
 ### Coding Software
 - Visual Studio Code
   
