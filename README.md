@@ -8,6 +8,7 @@
 
 # Donate
 Bitcoin: bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
+Etherium: 0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913
 # Repositories
 
 I'm currently working on [Task Organizer](https://github.com/MikoInSpace/Task-Organizer) and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
