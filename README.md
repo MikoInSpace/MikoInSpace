@@ -6,6 +6,8 @@
 - I'm an autistic **13**-Year-Old __Female__ developer from __Germany__.
 - I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
 
+# Donate
+Bitcoin: bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
 # Repositories
 
 I'm currently working on [Task Organizer](https://github.com/MikoInSpace/Task-Organizer) and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
