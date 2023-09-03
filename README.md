@@ -1,5 +1,5 @@
 # 👋 Hi, I’m MikoInSpace!
-- 🌱 I’m currently learning __Python and HTML__!
+- 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
 - 📫 Reach me by messaging me on Discord, My username on there is '**mikoinspace**'.
 
 # About Me
