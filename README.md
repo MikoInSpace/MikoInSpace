@@ -19,14 +19,14 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 - RAM: __32GB__ 3200MHz
 
 ## Peripherals
-- Corsair K55 RGB Keyboard
-- Glorious Model O
+- [Corsair K55 RGB Keyboard](https://www.corsair.com/de/de/p/keyboards/ch-9206015-de/k55-rgb-gaming-keyboard-de-ch-9206015-de)
+- [Glorious Model O](https://www.gloriousgaming.com/products/glorious-model-o-black)
 
 ## System
 ### OS
 - Windows 10
-### Coding Software
-- Visual Studio Code with AI Autocompletion
+### IDE
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Laptop
 - CPU: AMD __Ryzen 5__ 2500U
@@ -35,7 +35,7 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 
 ## System
 ### OS
-- Ubuntu
-### Coding Software
-- Visual Studio Code
+- [Ubuntu](https://ubuntu.com/)
+### IDE
+- [Visual Studio Code](https://code.visualstudio.com/)
   
