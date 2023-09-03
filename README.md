@@ -1,10 +1,10 @@
 # 👋 Hi, I’m MikoInSpace!
 - 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
-- 📫 Reach me by messaging me on Discord, My username on there is '**mikoinspace**'.
+- 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
 # About Me
 - I'm an autistic **13**-Year-Old __Female__ developer from __Germany__.
-- I'm currently learning more about the __Flipper Zero__ and am trying to get my hands on a __Pwnagotchi__!
+- I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
 
 # Repositories
 
