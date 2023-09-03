@@ -4,6 +4,7 @@
 
 # About Me
 - I'm an autistic **13**-Year-Old __Female__ developer from __Germany__.
+- I *work* at [Alterra Laboratories](https://mikoinspace.github.io/Alterra/)
 - I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
 
 # Donate
