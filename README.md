@@ -7,7 +7,7 @@
 - I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
 
 # Donate
-__WARNING: MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES__
+__MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES__
 
 __ANY OTHER CURRENCY WILL BE LOST__
 
