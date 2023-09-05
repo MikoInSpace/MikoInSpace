@@ -32,7 +32,7 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 
 # My Setup
 ## PC
-- CPU: Intel __I5-10400F__
+- CPU: Intel Core __I5-10400F__
 - GPU: GigaByte NVIDIA GeForce __RTX 3060__ Gaming OC
 - RAM: __32GB__ 3200MHz
 
