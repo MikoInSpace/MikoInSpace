@@ -3,7 +3,7 @@
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
 # About Me
-- I'm an autistic **13**-Year-Old __Female__ developer from __Germany__.
+- I'm an (probably) autistic **13**-year-old developer from __Germany__.
 - I'm usually online between 14:00 - 20:00
 - I *work* at [Alterra Laboratories](https://github.com/AlterraLaboratories)
 - I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
