@@ -25,7 +25,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 # Repositories
 
-I'm currently working on Money Calculator on behalf of Alterra.
+I'm currently working on [Money Calculator](https://github.com/AlterraLaboratories/Money-Calculator) on behalf of Alterra.
 
 # My Setup
 ## PC
