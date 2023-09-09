@@ -25,9 +25,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 # Repositories
 
-I'm currently working on [Task Organizer](https://github.com/MikoInSpace/Task-Organizer) and making a few one time things to learn python, I'm aware the desktop notifications in task organizer aren't working, I'm working on fixing them soon.
-
-I try to do atleast __one project per day__ to improve my coding skills and knowledge.
+I'm currently working on Money Calculator on behalf of Alterra.
 
 # My Setup
 ## PC
