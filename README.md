@@ -1,11 +1,9 @@
 # 👋 Hi, I’m MikoInSpace!
-- 🌱 I’m currently learning [Python](https://python.org), [C++](https://en.wikipedia.org/wiki/C++) and [HTML](https://en.wikipedia.org/wiki/HTML)!
+- 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
 # About Me
-- I'm a (probably) autistic **13**-year-old developer from __Germany__.
-- I'm usually online between 14:00 - 20:00
-- I *work* at [Alterra Laboratories](https://github.com/AlterraLaboratories)
+- I'm an autistic **13**-Year-Old __Female__ developer from __Germany__.
 - I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
 
 # Donate
@@ -33,7 +31,7 @@ I try to do atleast __one project per day__ to improve my coding skills and know
 
 # My Setup
 ## PC
-- CPU: Intel Core __I5-10400F__
+- CPU: Intel __I5-10400F__
 - GPU: GigaByte NVIDIA GeForce __RTX 3060__ Gaming OC
 - RAM: __32GB__ 3200MHz
 
