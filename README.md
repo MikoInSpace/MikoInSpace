@@ -13,15 +13,19 @@ __MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES__
 
 __ANY OTHER CURRENCY WILL BE LOST__
 
-Bitcoin: 
+Bitcoin (BTC): 
 
 bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
 
-Ethereum: 
+Bitcoin Cash (BTH):
+
+bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3
+
+Ethereum (ETH): 
 
 0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913
 
-Dogecoin: 
+Dogecoin (DOGE): 
 
 A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
