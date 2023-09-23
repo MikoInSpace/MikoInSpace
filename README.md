@@ -66,7 +66,7 @@ I'm also developing my own [Discord Bot](https://discord.com/developers/) called
 
 ## System
 ### OS
-- [Ubuntu](https://ubuntu.com/)
+- [Solus](https://getsol.us/)
 ### IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
   
