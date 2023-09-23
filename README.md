@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/b1/2f/25/b12f25c623ae26e3503aba32dd02e570.jpg" alt="Banner Image" width="100%">
   <h1>👋 Hi, I’m MikoInSpace!</h1>
   <p>🌱 I’m currently learning Python and HTML!</p>
   <p>📫 Reach me by messaging me on <a href="https://discord.com">Discord</a>, My username on there is '<strong>mikoinspace</strong>'.</p>
