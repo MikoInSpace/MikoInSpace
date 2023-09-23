@@ -1,14 +1,4 @@
 # 👋 Hi, I’m MikoInSpace!
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=transparent" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=transparent" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=transparent&layout=compact" width="25%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=transparent&no-frame=false&no-bg=true&margin-w=4&rank=-C,-SECRET" width="786">
-</p>
-
 - 🌱 I’m currently learning Python and HTML!
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
@@ -69,4 +59,16 @@ I'm also developing my own [Discord Bot](https://discord.com/developers/) called
 - [Solus](https://getsol.us/)
 ### IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=transparent" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=transparent" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=transparent&layout=compact" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=transparent&no-frame=false&no-bg=true&margin-w=4&rank=-C,-SECRET" width="786">
+</p>
   
