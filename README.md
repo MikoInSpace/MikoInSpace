@@ -1,7 +1,13 @@
 # 👋 Hi, I’m MikoInSpace!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoinspace&langs_count=8&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoinspace&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MikoInSpace&theme=transparent)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=transparent" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=transparent" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=transparent" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=transparent" width="786">
+</p>
 - 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
