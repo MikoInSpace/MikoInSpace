@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=transparent&no-frame=false&no-bg=true&margin-w=4&rank=-C,-SECRET" width="786">
 </p>
-- 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
+- 🌱 I’m currently learning Python and HTML!
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
 
 # About Me
