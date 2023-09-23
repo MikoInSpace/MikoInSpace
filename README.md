@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=transparent" width="32%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=transparent" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=transparent" width="25%">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C,-SECRET" width="25%">
 </p>
 
 <p align="center">
