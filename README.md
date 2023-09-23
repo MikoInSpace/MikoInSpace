@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=transparent" width="786">
+  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=dark" width="786">
 </p>
 - 🌱 I’m currently learning [Python](https://python.org) and [HTML](https://en.wikipedia.org/wiki/HTML)!
 - 📫 Reach me by messaging me on [Discord](https://discord.com), My username on there is '**mikoinspace**'.
