@@ -35,13 +35,37 @@ I'm also developing my own [Discord Bot](https://discord.com/developers/) called
 
 # My Setup
 ## PC
-	@@ -56,19 +52,7 @@ I'm also developing my own [Discord Bot](https://discord.com/developers/) called
+
+CPU: Intel **I5-10400F**
+GPU: GigaByte **NVIDIA GeForce RTX 3060** Gaming OC
+RAM: **32GB** 3200MHz
+
+## Peripherals
+
+Corsair K55 RGB Keyboard
+Glorious Model O
 
 ## System
+
 ### OS
-- [Solus](https://getsol.us/)
+Windows 10
+
 ### IDE
-- [Visual Studio Code](https://code.visualstudio.com/)
+Visual Studio Code
+
+## Laptop
+
+CPU: AMD Ryzen 5 2500U
+GPU: AMD Radeon Vega 8
+RAM: 12GB
+
+## System
+
+### OS
+Solus
+
+### IDE
+Visual Studio Code
 
 # GitHub Stats
 
