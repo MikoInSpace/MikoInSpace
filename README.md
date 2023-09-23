@@ -26,14 +26,9 @@
 
 ---
 
-## Repositories
-
-- 🔨 I'm currently working on [Money Calculator](https://github.com/AlterraLaboratories/Money-Calculator) on behalf of [Alterra Laboratories](https://alterralaboratories.github.io/Website/).
-- 🤖 I'm also developing my own [Discord Bot](https://discord.com/developers/) called [MEE_C0](https://github.com/MikoInSpace/MEE_C0).
-
----
-
-## My Setup
+<details>
+<summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+<p>
 
 ### PC
 
@@ -71,6 +66,9 @@
 #### IDE
 
 - 💻 Visual Studio Code
+
+</p>
+</details>
 
 ---
 
