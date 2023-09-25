@@ -11,6 +11,7 @@
 
 - 👩 I'm a **13-year-old** autistic developer from 🇩🇪 Germany.
 - 📚 I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
+- 🐧 I'm also learning more about linux, specifically [Arch Linux](https://archlinux.org/).
 
 ---
 
