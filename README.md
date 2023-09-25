@@ -81,10 +81,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=dark" width="35%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=dark&no-frame=false&no-bg=true&margin-w=4&rank=-C,-SECRET" width="786">
-</p>
 </div>
