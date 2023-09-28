@@ -63,7 +63,7 @@
 
 #### OS
 
-- 🖥️ Solus
+- 🖥️ Arch Linux (Hyprland)
 
 #### IDE
 
