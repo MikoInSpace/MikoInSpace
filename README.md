@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  ## About Me
+  <h2>About Me</h2>
 </div>
 
 - 👩 I'm a **13-year-old** autistic developer from 🇩🇪 Germany.
@@ -17,7 +17,9 @@
 
 ---
 
-## Donate
+<div align="center">
+  <h2>Donate</h2>
+</div>
 
 **MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES**
 
@@ -30,12 +32,11 @@
 - 💰 Dogecoin (DOGE): `A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ`
 
 ---
-
-<details>
-<summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
-<p>
-
-### PC
+<div align="center">
+   <details>
+   <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+   <p>
+</div>
 
 - 💻 CPU: Intel **I5-10400F**
 - 🎮 GPU: GigaByte **NVIDIA GeForce RTX 3060** Gaming OC
