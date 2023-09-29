@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/b1/2f/25/b12f25c623ae26e3503aba32dd02e570.jpg" alt="Banner Image" width="100%">
+  ---
   <div style="display: flex; align-items: center; justify-content: center;">
     <h1>👋 Hi, I’m MikoInSpace! <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="20"> <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="20"></h1>
   </div>
