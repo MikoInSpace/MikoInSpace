@@ -33,47 +33,38 @@
 
 ---
 <div align="center">
-   <details>
-   <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
-   <p>
-</div>
+  <details>
+    <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+    <div align="left">
+    
+### Desktop PC
 
-- 💻 CPU: Intel **I5-10400F**
-- 🎮 GPU: GigaByte **NVIDIA GeForce RTX 3060** Gaming OC
-- 🧮 RAM: **32GB** 3200MHz
+- **CPU:** Intel **I5-10400F**
+- **GPU:** GigaByte **NVIDIA GeForce RTX 3060** Gaming OC
+- **RAM:** **32GB** 3200MHz
 
-### Peripherals
+#### Peripherals
 
-- ⌨️ Corsair K55 RGB Keyboard
-- 🖱️ Glorious Model O
+- **Keyboard:** Corsair K55 RGB
+- **Mouse:** Glorious Model O
 
-### System
+#### System
 
-#### OS
-
-- 🖥️ Windows 10
-
-#### IDE
-
-- 💻 Visual Studio Code
+**Operating System:** Windows 10  
+**IDE:** Visual Studio Code
 
 ### Laptop
 
-- 💻 CPU: AMD Ryzen 5 2500U
-- 🎮 GPU: AMD Radeon Vega 8
-- 🧮 RAM: 12GB
+- **CPU:** AMD Ryzen 5 2500U
+- **GPU:** AMD Radeon Vega 8
+- **RAM:** 12GB
 
-### System
+#### System
 
-#### OS
+**Operating System:** Arch Linux (Hyprland)  
+**IDE:** Visual Studio Code
 
-- 🖥️ Arch Linux (Hyprland)
-
-#### IDE
-
-- 💻 Visual Studio Code
-
-</p>
+</div>
 </details>
 
 ---
@@ -86,3 +77,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
 </p>
 </div>
+
