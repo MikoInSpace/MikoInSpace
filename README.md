@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/b1/2f/25/b12f25c623ae26e3503aba32dd02e570.jpg" alt="Banner Image" width="100%">
   <h1>👋 Hi, I’m MikoInSpace!</h1>
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="10%">
-    <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="10%">
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="5%">
+    <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="5%">
   </div>
   <p>🌱 I’m currently learning Python and HTML!</p>
   <p>📫 Reach me by messaging me on <a href="https://discord.com">Discord</a>, My username on there is '<strong>mikoinspace</strong>'.</p>
