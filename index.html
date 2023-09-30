@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-
         /* Add animation keyframes for fade-in */
         @keyframes fadeIn {
             from {
@@ -21,6 +20,7 @@
         header, section, nav {
             animation: fadeIn 1s ease-out;
         }
+
         /* Reset some default browser styles */
         body, h1, h2, p {
             margin: 0;
@@ -66,22 +66,9 @@
             margin-top: 1rem;
         }
 
+        /* Hide the navigation bar */
         nav {
-            display: flex;
-            justify-content: center;
-            background-color: #9376e0; /* Primary color */
-            border-bottom: 1px solid #9376e0; /* Primary color */
-        }
-
-        nav a {
-            padding: 10px 20px;
-            text-decoration: none;
-            color: #fff; /* Text color */
-            opacity: 1; /* Opacity set to 100% */
-        }
-
-        nav a:hover {
-            background-color: #663399;
+            display: none;
         }
 
         section {
@@ -90,6 +77,13 @@
             border-radius: 20px;
             margin: 20px 0;
             color: #ffffff; /* Text color */
+            transition: background-color 0.3s ease, transform 0.2s ease; /* Add transitions */
+        }
+
+        /* Darken the section background color when hovering */
+        section:hover {
+            background-color: rgba(147, 118, 224, 0.7); /* Darker shade for hover effect */
+            transform: scale(1.005); /* Slightly scale up on hover */
         }
 
         h2 {
@@ -108,36 +102,116 @@
 
         a {
             text-decoration: none;
-            color: #bb86fc;
+            color: #6200ff;
         }
 
         a:hover {
+            color: #4c00ff;
             text-decoration: underline;
         }
+
+        /* Center align content */
+        .center {
+            text-align: center;
+        }
+
+        /* Add spacing between sections */
+        .section-spacing {
+            margin-top: 40px;
+        }
+        
+        /* Center align the Discord widget */
+        iframe {
+            display: block;
+            margin: 0 auto;
+        }
     </style>
-    <title>Miko - Personal Website</title>
+    <title>MikoInSpace - Personal Website</title>
 </head>
 <body>
     <header>
         <h1>
-            <img src="miko.png" alt="Miko Logo">
-            Miko
+            <img src="miko.png" alt="Banner Image" width="100%">
+            MikoInSpace
         </h1>
-        <p>Welcome to my whimsical corner of the web!</p>
+        <p>🌱 I'm currently learning Python and HTML!</p>
+        <p>📫 Reach me by messaging me on <a href="https://discord.com">Discord</a>, My username on there is '<strong>mikoinspace</strong>'.</p>
     </header>
 
-    <nav>
-        <a href="about.html">About Me</a>
-        <a href="projects.html">Projects</a>
-        <a href="contact.html">Contact</a>
-        <a href="setup.html">Setup</a>
-        <a href="donate.html">Donate</a>
-        <a href="links.html">Links</a>
-    </nav>
-    
-    <section>
-        <h2>Welcome to My Website!</h2>
-        <p>This is my personal website where you can learn more about me and my projects.</p>
+    <section id="about" class="section-spacing">
+        <h2>About Me</h2>
+        <ul>
+            <li>👩 I'm a <strong>13-year-old</strong> autistic developer from 🇩🇪 Germany.</li>
+            <li>📚 I'm currently learning more about the <a href="https://flipperzero.one">Flipper Zero</a> and am trying to get my hands on a <a href="https://pwnagotchi.ai">Pwnagotchi</a>!</li>
+            <li>🐧 I'm also learning more about linux, specifically <a href="https://archlinux.org">Arch Linux</a>.</li>
+        </ul>
     </section>
+
+    <section id="donate" class="section-spacing">
+        <h2>Donate</h2>
+        <p><strong>MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES</strong></p>
+        <p><strong>ANY OTHER CURRENCY WILL BE LOST</strong></p>
+        <ul>
+            <li>💰 Patreon: <a href="https://www.patreon.com/mikoinspace">MikoInSpace</a></li>
+            <li>💰 Bitcoin (BTC): <code>bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5</code></li>
+            <li>💰 Bitcoin Cash (BCH): <code>bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3</code></li>
+            <li>💰 Ethereum (ETH): <code>0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913</code></li>
+            <li>💰 Dogecoin (DOGE): <code>A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ</code></li>
+        </ul>
+    </section>
+
+    <section id="setup" class="section-spacing">
+        <h2>My Setup</h2>
+        <details>
+            <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+            <div>
+                <h3>Desktop PC</h3>
+                <ul>
+                    <li><strong>CPU:</strong> Intel <strong>I5-10400F</strong></li>
+                    <li><strong>GPU:</strong> GigaByte <strong>NVIDIA GeForce RTX 3060</strong> Gaming OC</li>
+                    <li><strong>RAM:</strong> <strong>32GB</strong> 3200MHz</li>
+                </ul>
+                <h4>Peripherals</h4>
+                <ul>
+                    <li><strong>Keyboard:</strong> Corsair K55 RGB</li>
+                    <li><strong>Mouse:</strong> Glorious Model O</li>
+                </ul>
+                <h4>System</h4>
+                <ul>
+                    <li><strong>Operating System:</strong> Windows 10</li>
+                    <li><strong>IDE:</strong> Visual Studio Code</li>
+                </ul>
+            </div>
+        </details>
+        <details>
+            <summary><strong>Laptop</strong> (Click to Expand/Collapse)</summary>
+            <div>
+                <ul>
+                    <li><strong>CPU:</strong> AMD Ryzen 5 2500U</li>
+                    <li><strong>GPU:</strong> AMD Radeon Vega 8</li>
+                    <li><strong>RAM:</strong> 12GB</li>
+                </ul>
+                <h4>System</h4>
+                <ul>
+                    <li><strong>Operating System:</strong> Arch Linux (Hyprland)</li>
+                    <li><strong>IDE:</strong> Visual Studio Code</li>
+                </ul>
+            </div>
+        </details>
+    </section>
+
+    <section id="links" class="section-spacing">
+        <h2>GitHub Stats</h2>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=dark" width="32%">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=dark" width="35%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
+        </p>
+    </section>
+
+    <div class="center">
+        <iframe src="https://discord.com/widget?id=1143923214347681842&theme=dark" width="350" height="500" position="center" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        <p>Made with <img src="html.png" alt="HTML Icon" height="1%" width="1%" position="center"> by <a href="https://github.com/mikoinspace">MikoInSpace</a></p>
+    </div>
 </body>
 </html>
