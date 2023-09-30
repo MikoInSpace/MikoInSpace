@@ -28,23 +28,10 @@
 **ANY OTHER CURRENCY WILL BE LOST**
 
 - 💰 Patreon: [MikoInSpace](https://www.patreon.com/mikoinspace)
-- 💰 Bitcoin (BTC): <span id="btc-address">bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5</span> <button onclick="copyToClipboard('btc-address')">Copy</button>
-- 💰 Bitcoin Cash (BCH): <span id="bch-address">bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3</span> <button onclick="copyToClipboard('bch-address')">Copy</button>
-- 💰 Ethereum (ETH): <span id="eth-address">0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913</span> <button onclick="copyToClipboard('eth-address')">Copy</button>
-- 💰 Dogecoin (DOGE): <span id="doge-address">A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ</span> <button onclick="copyToClipboard('doge-address')">Copy</button>
-
-<script>
-function copyToClipboard(elementId) {
-  const el = document.getElementById(elementId);
-  const textArea = document.createElement("textarea");
-  textArea.value = el.textContent;
-  document.body.appendChild(textArea);
-  textArea.select();
-  document.execCommand("copy");
-  document.body.removeChild(textArea);
-  alert(`Copied ${elementId.toUpperCase()} to clipboard: ${el.textContent}`);
-}
-</script>
+- 💰 Bitcoin (BTC): `bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5`
+- 💰 Bitcoin Cash (BCH): `bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3`
+- 💰 Ethereum (ETH): `0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913`
+- 💰 Dogecoin (DOGE): `A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ`
 
 </div>
 
