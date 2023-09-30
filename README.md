@@ -7,8 +7,6 @@
   <p>📫 Reach me by messaging me on <a href="https://discord.com">Discord</a>, My username on there is '<strong>mikoinspace</strong>'.</p>
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -17,7 +15,7 @@
 
 - 👩 I'm a **13-year-old** autistic developer from 🇩🇪 Germany.
 - 📚 I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
-- 🐧 I'm also learning more about linux, specifically [Arch Linux](https://archlinux.org/).
+- 🐧 I'm also learning more about Linux, specifically [Arch Linux](https://archlinux.org/).
 
 ---
 
@@ -28,14 +26,26 @@
 **MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES**
 
 **ANY OTHER CURRENCY WILL BE LOST**
-
 - 💰 Patreon: [MikoInSpace](https://www.patreon.com/mikoinspace)
-- 💰 Bitcoin (BTC): `bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5`
-- 💰 Bitcoin Cash (BCH): `bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3`
-- 💰 Ethereum (ETH): `0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913`
-- 💰 Dogecoin (DOGE): `A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ`
+- 💰 Bitcoin (BTC):
+```js
+bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
+```
+- 💰 Bitcoin Cash (BCH):
+```js
+bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3
+```
+- 💰 Ethereum (ETH):
+```js
+0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913
+```
+- 💰 Dogecoin (DOGE):
+```js
+A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
+```
 
----
+</div>
+
 <div align="center">
   <details>
     <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
@@ -81,4 +91,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
 </p>
 </div>
-
