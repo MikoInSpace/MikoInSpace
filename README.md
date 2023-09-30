@@ -26,7 +26,9 @@
 **MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES**
 
 **ANY OTHER CURRENCY WILL BE LOST**
-
+```js
+bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
+```
 - 💰 Patreon: [MikoInSpace](https://www.patreon.com/mikoinspace)
 - 💰 Bitcoin (BTC): `bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5`
 - 💰 Bitcoin Cash (BCH): `bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3`
