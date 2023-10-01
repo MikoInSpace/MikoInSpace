@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/b1/2f/25/b12f25c623ae26e3503aba32dd02e570.jpg" alt="Banner Image" width="100%">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <h1>👋 Hi, I’m MikoInSpace! <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="20"> <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="20"></h1>
-  </div>
+  <h1>👋 Hi, I’m MikoInSpace! <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="20"> <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="20"></h1>
   <p>🌱 I’m currently learning Python and HTML!</p>
-  <p>📫 Reach me by messaging me on <a href="https://discord.com">Discord</a>, My username on there is '<strong>mikoinspace</strong>'.</p>
+  <p>📫 Reach me on Discord: <strong>mikoinspace</strong></p>
 </div>
 
 ---
@@ -47,10 +45,9 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 </div>
 
 <div align="center">
-  <details>
-    <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
-    <div align="left">
-    
+<details>
+  <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+  
 ### Desktop PC
 
 - **CPU:** Intel **I5-10400F**
@@ -78,7 +75,6 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 **Operating System:** Arch Linux (Hyprland)  
 **IDE:** Visual Studio Code
 
-</div>
 </details>
 
 ---
@@ -86,8 +82,9 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=dark" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=dark" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
+<img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=dark" width="32%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=dark" width="35%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
 </p>
 </div>
+
