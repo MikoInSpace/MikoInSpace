@@ -52,6 +52,11 @@
             display: flex;
             flex-direction: column;
             align-items: center;
+            transition: transform 0.2s ease; /* Add transition */
+        }
+
+        header h1:hover {
+            transform: scale(1.1); /* Slightly scale up on hover */
         }
 
         header img {
@@ -59,11 +64,21 @@
             height: 100px;
             border-radius: 50%;
             margin-bottom: 10px;
+            transition: transform 0.2s ease; /* Add transition */
+        }
+
+        header img:hover {
+            transform: scale(1.1); /* Slightly scale up on hover */
         }
 
         header p {
+            transition: transform 0.2s ease; /* Add transition */
             font-size: 1.2rem;
             margin-top: 1rem;
+        }
+
+        header p:hover {
+            transform: scale(1.05); /* Slightly scale up on hover */
         }
 
         /* Hide the navigation bar */
@@ -103,13 +118,14 @@
         a {
             text-decoration: none;
             color: #6200ff;
+            transition: color 0.3s ease; /* Add transition*/
         }
 
         a:hover {
             color: #4c00ff;
             text-decoration: underline;
         }
-
+                 
         /* Center align content */
         .center {
             text-align: center;
@@ -131,7 +147,7 @@
 <body>
     <header>
         <h1>
-            <img src="miko.png" alt="Banner Image" width="100%">
+            <img src="miko.png" alt="Profile Picture" width="100%">
             MikoInSpace
         </h1>
         <p>🌱 I'm currently learning Python and HTML!</p>
