@@ -61,7 +61,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 #### System
 
-**Operating System:** Windows 10  
+**Operating System:** Windows 10, Arch Linux (Hyprland)  
 **IDE:** Visual Studio Code
 
 ### Laptop
