@@ -1,5 +1,7 @@
 # 💫 About Me:
-👩 I'm a 13-year-old Female Autistic Developer from 🇩🇪 Germany.<br>📚 I'm currently learning more about the Flipper Zero and am trying to get my hands on a Pwnagotchi!<br>🐧 I'm also learning more about Linux, specifically Arch Linux.
+👩 I'm a 13-year-old Female Autistic Developer from 🇩🇪 Germany.
+📚 I'm currently learning more about the Flipper Zero and am trying to get my hands on a Pwnagotchi!
+🐧 I'm also learning more about Linux, specifically Arch Linux.
 
 
 ## 🌐 Socials:
