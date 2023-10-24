@@ -1,4 +1,6 @@
+<p align="center">
 # 💫 About Me:
+</p>
 
 👩 I'm a 13-year-old Female Autistic Developer from 🇩🇪 Germany.
 
