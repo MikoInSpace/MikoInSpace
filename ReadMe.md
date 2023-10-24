@@ -1,5 +1,5 @@
 <p align="center">
-# 💫 About Me:
+<h2>💫 About Me</h2>
 </p>
 
 👩 I'm a 13-year-old Female Autistic Developer from 🇩🇪 Germany.
