@@ -1,61 +1,90 @@
-<p align="center">
-   <img src="https://i.imgur.com/DPjMG9K.gif">
-</p>
-
-<h2 align="center">💫 About Me</h2>
-
-<p>
-   👩 I'm a 13-year-old Female Autistic Developer from 🇩🇪 Germany.
-</p>
-
-<p>
-   📚 I'm currently learning more about the Flipper Zero and am trying to get my hands on a Pwnagotchi!
-</p>
-
-<p>
-   🐧 I'm also learning more about Linux, specifically Arch Linux.
-</p>
-
-<h2 align="center">🌐 Socials:</h2>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zDhX9nyT) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mikoinspace) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mikoinspace) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mikoinspace) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mikoinspace)
-
-<h2 align="center">💻 Tech Stack:</h2>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-
-<h2 align="center">📊 GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=transparent&hide_border=false&include_all_commits=false&count_private>false&layout=compact)
-
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=MikoInSpace&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=MikoInSpace&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b1/2f/25/b12f25c623ae26e3503aba32dd02e570.jpg" alt="Banner Image" width="100%">
+  <h1>👋 Hi, I’m MikoInSpace! <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Active_Developer.png" alt="DevBadge" width="20"> <img src="https://raw.githubusercontent.com/MikoInSpace/MikoInSpace/main/Hypesquad_Balance.png" alt="HypeBadge" width="20"></h1>
+  <p>🌱 I’m currently learning Python and HTML!</p>
+  <p>📫 Reach me on Discord: <strong>mikoinspace</strong></p>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MikoInSpace&icon=0&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <h2>About Me</h2>
+</div>
 
+- 👩 I'm a **13-year-old** Female Autistic Developer from 🇩🇪 Germany.
+- 📚 I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
+- 🐧 I'm also learning more about Linux, specifically [Arch Linux](https://archlinux.org/).
 
-<h2 align="center">💰 You can help me by Donating</h2>
+---
 
-   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mikoinspace) 
+<div align="center">
+  <h2>Donate</h2>
+</div>
+
+**MAKE SURE TO ONLY SEND THE SPECIFIED CURRENCY TO THE ADDRESSES**
+
+**ANY OTHER CURRENCY WILL BE LOST**
+- 💰 Patreon: [MikoInSpace](https://www.patreon.com/mikoinspace)
+- 💰 Bitcoin (BTC):
+```js
+bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
+```
+- 💰 Bitcoin Cash (BCH):
+```js
+bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3
+```
+- 💰 Ethereum (ETH):
+```js
+0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913
+```
+- 💰 Dogecoin (DOGE):
+```js
+A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
+```
+
+</div>
+
+<div align="center">
+<details>
+  <summary><strong>My Setup</strong> (Click to Expand/Collapse)</summary>
+  
+### Desktop PC
+
+- **CPU:** Intel **I5-10400F**
+- **GPU:** GigaByte **NVIDIA GeForce RTX 3060** Gaming OC
+- **RAM:** **32GB** 3200MHz
+
+#### Peripherals
+
+- **Keyboard:** Corsair K55 RGB
+- **Mouse:** Glorious Model O
+
+#### System
+
+**Operating System:** Windows 10, Arch Linux (Hyprland)  
+**IDE:** Visual Studio Code
+
+### Laptop
+
+- **CPU:** AMD Ryzen 5 2500U
+- **GPU:** AMD Radeon Vega 8
+- **RAM:** 12GB
+
+#### System
+
+**Operating System:** Arch Linux (Hyprland)  
+**IDE:** Visual Studio Code
+
+</details>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=dark" width="32%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikoInSpace&theme=dark" width="35%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoInSpace&theme=dark&layout=compact" width="25%">
+</p>
+</div>
+
