@@ -61,7 +61,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 #### System
 
-**Operating System:** Windows 10, Arch Linux (Hyprland)  
+**Operating System:** Zorin OS
 **IDE:** Visual Studio Code
 
 ### Laptop
@@ -72,7 +72,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 #### System
 
-**Operating System:** Arch Linux (Hyprland)  
+**Operating System:** Zorin OS
 **IDE:** Visual Studio Code
 
 </details>
