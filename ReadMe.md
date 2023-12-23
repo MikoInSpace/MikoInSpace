@@ -79,7 +79,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MikoInSpace&theme=dark" width="32%">
