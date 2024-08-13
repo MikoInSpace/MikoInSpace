@@ -11,9 +11,8 @@
   <h2>About Me</h2>
 </div>
 
-- 👩 I'm a **13-year-old** Female Autistic Developer from 🇩🇪 Germany.
-- 📚 I'm currently learning more about the [Flipper Zero](https://flipperzero.one) and am trying to get my hands on a [Pwnagotchi](https://pwnagotchi.ai)!
-- 🐧 I'm also learning more about Linux, specifically [Arch Linux](https://archlinux.org/).
+- 👩 I'm a **13-year-old** Female Autistic Space and Rocket Enthusiast from 🇩🇪 Germany.
+- 📚 I'm currently learning more about the [Apollo Capsule](https://en.wikipedia.org/wiki/Apollo_%28spacecraft%29)
 
 ---
 
@@ -61,7 +60,7 @@ A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
 
 #### System
 
-**Operating System:** Zorin OS
+**Operating System:** Windows 10
 **IDE:** Visual Studio Code
 
 ### Laptop
