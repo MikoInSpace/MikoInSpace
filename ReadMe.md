@@ -11,7 +11,7 @@
   <h2>About Me</h2>
 </div>
 
-- 👩 I'm a **13-year-old** Female Autistic Space and Rocket Enthusiast from 🇩🇪 Germany.
+- 👩 I'm a **14-year-old** Female Autistic Space and Rocket Enthusiast from 🇩🇪 Germany.
 - 📚 I'm currently learning more about the [Apollo Capsule](https://en.wikipedia.org/wiki/Apollo_%28spacecraft%29)
 
 ---
